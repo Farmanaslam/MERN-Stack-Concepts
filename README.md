@@ -18,7 +18,7 @@
 
    - run `npm install` inside the root directory before running the code
 
-**NOTE** : Code for **React JS app** is available in final code `node-12` branch in folder `react-app`. It can be used in previous chapters also like chapter-8 etc (however it's the final code, so step-wise code is not available for React, However one can follow the tutorial and make it , sorry for inconvenience)
+3.Note** Code for chapter_eight is here https://github.com/Farmanaslam/MERN-Deploy
 
   
   
